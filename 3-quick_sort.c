@@ -7,7 +7,7 @@
  * @array: array to modify.
  * @left: index of the left element.
  * @right: index of the right element.
- * @right: number of integers in array.
+ * @size: number of integers in array.
  */
 void swap_and_print(int *array, size_t left, size_t right, size_t size)
 {
