@@ -33,4 +33,7 @@ void insertion_sort_list(listint_t **);
 /** File: 2-selection_sort.c **/
 void selection_sort(int *, size_t);
 
+/** File: 3-quick_sort.c **/
+void quick_sort(int *, size_t);
+
 #endif
