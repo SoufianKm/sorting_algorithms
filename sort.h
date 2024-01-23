@@ -27,4 +27,7 @@ void print_list(const listint_t *);
 /** File: 0-bubble_sort.c **/
 void bubble_sort(int *, size_t);
 
+/** File: 0-bubble_sort.c **/
+void insertion_sort_list(listint_t **list);
+
 #endif
